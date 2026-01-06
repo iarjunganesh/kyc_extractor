@@ -1,0 +1,16 @@
+.venv-ocr/
+__pycache__/
+*.py[cod]
+*.log
+
+# Common build/packaging
+build/
+dist/
+*.egg-info/
+
+# Editors/OS
+.vscode/
+.DS_Store
+
+# Data/artifacts
+*.pdf
